@@ -1,0 +1,3 @@
+﻿  main.c
+d:\source\workspaces\learning\simplec\simplec\main.c(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SimpleC.vcxproj -> D:\Source\Workspaces\Learning\SimpleC\Debug\SimpleC.exe
